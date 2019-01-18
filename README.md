@@ -3,7 +3,7 @@
 * 2.3. Route de la mairie
 * 2.4. Route des députés
 
-# Author
+## Author
 Gaudefroy Adeline
 
 ## Correction
