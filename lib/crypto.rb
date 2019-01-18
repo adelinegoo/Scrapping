@@ -23,6 +23,6 @@ def crypto
     final_array << {e[0] => e[1]}
   end
   print final_array
-  return final_array
 
 end
+return final_array
